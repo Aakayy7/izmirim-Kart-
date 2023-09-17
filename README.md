@@ -131,7 +131,7 @@ Due to the coronavirus outbreak, there was a full closure that started at 19.00 
 
 - 2021 vs 2022 For Eshot
 
-- <p align="center">
+ <p align="center">
     <img style="width: 60%;" src="images/17.png"/>
 </p>
 
@@ -141,6 +141,47 @@ Due to the coronavirus outbreak, there was a full closure that started at 19.00 
 
 - İzban VS Metro in 2021
 
-- <p align="center">
-    <img style="width: 60%;" src="images/19.png"/>
+ <p align="center">
+    <img style="width: 60%;" src="images/21.png"/>
+</p>
+
+They have approximately the same number of passengers
+
+
+- İzban VS Metro in 2022
+
+ <p align="center">
+    <img style="width: 60%;" src="images/22.png"/>
+</p>
+
+
+- İzban vs Eshot in 2021
+
+ <p align="center">
+    <img style="width: 60%;" src="images/24.png"/>
+</p>
+
+İt seems that eshot has approximately 2 times more passangers than İzban
+
+- İzban vs Eshot in 2022
+
+ <p align="center">
+    <img style="width: 60%;" src="images/25.png"/>
+</p>
+
+The difference has increased even further in 2022
+
+- İzban vs Metro vs Eshot in 2021
+
+ <p align="center">
+    <img style="width: 60%;" src="images/27.png"/>
+</p>
+
+It seems that izban and metro had nearly same amount of passangers in 2021 but in contrast to them eshot has a way more passangers in that year
+
+
+- İzban vs Metro vs Eshot in 2022
+
+ <p align="center">
+    <img style="width: 60%;" src="images/28.png"/>
 </p>
